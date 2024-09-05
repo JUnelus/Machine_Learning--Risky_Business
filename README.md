@@ -1,8 +1,8 @@
 # Machine Learning - Risky Business
 
-![Credit Risk](credit-risk.jpg)
+![Credit Risk](images/credit-risk.jpg)
 
-Welcome to the **Risky Business** project! In this assignment, we will dive into the world of machine learning to predict credit risk using data from peer-to-peer lending services. 
+Welcome to the **Risky Business** project! In this project, I will dive into the world of machine learning to predict credit risk using data from peer-to-peer lending services. 
 
 ## Overview
 
@@ -10,7 +10,7 @@ Credit risk prediction is a critical task in the financial industry, and it pres
 
 ## Techniques Used
 
-We will leverage the power of the following libraries to build and evaluate our models:
+I leveraged the power of the following libraries to build and evaluate our models:
 
 - **imbalanced-learn**: A Python package offering a variety of re-sampling techniques commonly used in datasets showing strong between-class imbalance.
 - **Scikit-learn**: A machine learning library for Python that provides simple and efficient tools for data mining and data analysis.
@@ -21,8 +21,6 @@ We will leverage the power of the following libraries to build and evaluate our 
 2. **Ensemble Learning**: Combining the predictions of multiple models to improve the overall performance.
 
 ## Goals
-
-By the end of this project, you will:
 
 - Understand the challenges of imbalanced classification problems.
 - Learn how to apply resampling techniques to balance the dataset.
