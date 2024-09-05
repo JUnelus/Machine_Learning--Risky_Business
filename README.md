@@ -1,6 +1,6 @@
 # Machine Learning - Risky Business
 
-![Credit Risk](images/credit-risk.jpg)
+![Credit Risk](Images/credit-risk.jpg)
 
 Welcome to the **Risky Business** project! In this project, I will dive into the world of machine learning to predict credit risk using data from peer-to-peer lending services. 
 
